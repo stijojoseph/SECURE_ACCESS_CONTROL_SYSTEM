@@ -93,7 +93,7 @@ The database is intially  stored on “test.txt” file on sdcard where names ar
 •	     ]
 •	}
 
-Github source code of the project- https://github.com/stijojoseph/Secure-Control-Access-Sytem-Stm32f103c8t6-bluepill-.git
+Github source code of the project- https://github.com/stijojoseph/SECURE_ACCESS_CONTROL_SYSTEM/tree/master
 
 Measures needed to be taken
 •	Make sure connections are correct
