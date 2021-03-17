@@ -2,7 +2,7 @@
 PROJECT2                                                
                                                                                                                                          by   stijo joseph 
                                                                  EEE 3rd year,NIT AP,under ROBATO SYSTEMS PVT.LTD
-
+****CAUTION The circuit diagram has been updated here on 17/3/2021 please redownload it ***
 
 
 INTRODUCTION
